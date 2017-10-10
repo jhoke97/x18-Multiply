@@ -32,7 +32,7 @@ int main()
       cout << endl;
       for(int j = 0; j < table[i].size(); j++)
       {
-        cout << table[i][j]; 
+        cout << table[i][j] << " | ";
       }
     }
    return 0;
